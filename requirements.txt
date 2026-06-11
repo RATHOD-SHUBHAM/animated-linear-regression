@@ -1,0 +1,10 @@
+# Presentation layer (Streamlit app)
+streamlit>=1.28.0
+
+# ML core (src/)
+numpy
+pandas
+matplotlib
+plotly
+scikit-learn
+pillow
